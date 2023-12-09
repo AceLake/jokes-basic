@@ -8,7 +8,7 @@ $host = "localhost";
 $port = "8889";
 $username = "root";
 $user_pass = "root";
-$database_in_use = "jokespart1";
+$database_in_use = "jokesdb";
 
 
 $mysqli = mysqli_connect($host, $username, $user_pass, $database_in_use, $port);
